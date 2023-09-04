@@ -27,8 +27,19 @@
 #     print("string too long")
 # elif len(string) == 10:
 #     print("perfect string")
-    
+ 
+ #option1
+ 
+# string_m = ""
 
+# for letter in string:
+#     string_m += letter
+#     print(string_m)
 
-# for string in string:
-    # print(string)
+# option2
+
+# string[0]
+# print(string[0])
+# for i in range(len(string)):
+
+#     print(string[:i+1])
